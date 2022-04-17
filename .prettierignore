@@ -1,0 +1,7 @@
+node_modules
+node_modules_arm
+.next
+yarn.lock
+package-lock.json
+public
+storybook-static
